@@ -1,0 +1,10 @@
+<!DOC>
+<html>
+<head>This is my page</head>
+
+<body> This is body </body>
+
+<p> This is paragraph <\p>
+
+ 
+</html>
